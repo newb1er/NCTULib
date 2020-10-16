@@ -2,4 +2,4 @@
 
 *Still under construction*
 
-An unofficial NCTU library API
+An unofficial NCTU library python package
